@@ -1,0 +1,19 @@
+{
+  "version": "1794501886939",
+  "updated": "2026-11-12T16:44:48.285Z",
+  "offers": [
+    {
+      "file": "B1G150 L.jpg",
+      "type": "L",
+      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/B1G150%20L.jpg?v=1794501886939"
+    },
+    {
+      "file": "B1G150 P.jpg",
+      "type": "P",
+      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/B1G150%20P.jpg?v=1794501886939",
+      "badge": "Special",
+      "title": "B1G150",
+      "description": "Ask our team in store for details on this exclusive offer."
+    }
+  ]
+}
