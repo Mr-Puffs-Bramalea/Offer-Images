@@ -1,19 +1,19 @@
 {
-  "version": "1794501886939",
-  "updated": "2026-11-12T16:44:48.285Z",
+  "version": "1794782662859",
+  "updated": "2026-11-15T22:44:24.985Z",
   "offers": [
     {
-      "file": "B1G150 L.jpg",
+      "file": "Pick and Win offer L.jpeg",
       "type": "L",
-      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/B1G150%20L.jpg?v=1794501886939"
+      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/Pick%20and%20Win%20offer%20L.jpeg?v=1794782662859"
     },
     {
-      "file": "B1G150 P.jpg",
+      "file": "Pick and Win offer P.jpeg",
       "type": "P",
-      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/B1G150%20P.jpg?v=1794501886939",
-      "badge": "Special",
-      "title": "B1G150",
-      "description": "Ask our team in store for details on this exclusive offer."
+      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/Pick%20and%20Win%20offer%20P.jpeg?v=1794782662859",
+      "badge": "MR PUFFS",
+      "title": "PICK A CHEAT & WIN!",
+      "description": "Pick a cheat and get surprises! You might get a free product like any 6-pack puffs or ice cream, discounts of 10%, 20%, or 30% off, buy 1 get 1 offers, and many more surprises. Unbox your surprise now!"
     }
   ]
 }
