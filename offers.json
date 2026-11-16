@@ -1,19 +1,19 @@
 {
-  "version": "1794797134532",
-  "updated": "2026-11-16T02:45:37.355Z",
+  "version": "1794797269371",
+  "updated": "2026-11-16T02:47:51.407Z",
   "offers": [
     {
       "file": "Pick and Win offer P.jpeg",
       "type": "P",
-      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/Pick%20and%20Win%20offer%20P.jpeg?v=1794797134532",
-      "badge": "LIMITED",
-      "title": "PICK A CHIT & WIN!",
-      "description": "Pick a chit from our box and get surprises including free products, discounts, and buy 1 get 1 offers!"
+      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/Pick%20and%20Win%20offer%20P.jpeg?v=1794797269371",
+      "badge": "Limited",
+      "title": "Pick A Chit & Win!",
+      "description": "Pick a chit from the box in-store to get surprises! You might win free products, discounts, buy one get one offers, and many more surprises."
     },
     {
       "file": "Pick and Win offer L.jpeg",
       "type": "L",
-      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/Pick%20and%20Win%20offer%20L.jpeg?v=1794797134532"
+      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/Pick%20and%20Win%20offer%20L.jpeg?v=1794797269371"
     }
   ]
 }
