@@ -1,19 +1,19 @@
 {
-  "version": "1794782662859",
-  "updated": "2026-11-15T22:44:24.985Z",
+  "version": "1794797134532",
+  "updated": "2026-11-16T02:45:37.355Z",
   "offers": [
-    {
-      "file": "Pick and Win offer L.jpeg",
-      "type": "L",
-      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/Pick%20and%20Win%20offer%20L.jpeg?v=1794782662859"
-    },
     {
       "file": "Pick and Win offer P.jpeg",
       "type": "P",
-      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/Pick%20and%20Win%20offer%20P.jpeg?v=1794782662859",
-      "badge": "MR PUFFS",
-      "title": "PICK A CHEAT & WIN!",
-      "description": "Pick a cheat and get surprises! You might get a free product like any 6-pack puffs or ice cream, discounts of 10%, 20%, or 30% off, buy 1 get 1 offers, and many more surprises. Unbox your surprise now!"
+      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/Pick%20and%20Win%20offer%20P.jpeg?v=1794797134532",
+      "badge": "LIMITED",
+      "title": "PICK A CHIT & WIN!",
+      "description": "Pick a chit from our box and get surprises including free products, discounts, and buy 1 get 1 offers!"
+    },
+    {
+      "file": "Pick and Win offer L.jpeg",
+      "type": "L",
+      "url": "https://raw.githubusercontent.com/Mr-Puffs-Bramalea/Offer-Images/main/offers/Pick%20and%20Win%20offer%20L.jpeg?v=1794797134532"
     }
   ]
 }
